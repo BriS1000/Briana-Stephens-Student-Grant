@@ -33,3 +33,12 @@ This incision is painful and takes multiple months to heal
 This access method poses the risk of hitting the hearing bones causing permanent hearing loss.
  Surgery needs anesthesia and takes multiple hours. 
 Mistakes can easily occur during surgery, causing punctures of the eardrum. 
+
+
+Future Work
+Collaborate with inpatient biomedical engineers who can run the simulation and motion training.
+Apply for each part of the new surgical process to be approved to become medical devices used in the office and inpatient clinical settings, while complying with FDA standards.
+Surgical robot- Register as a Class ll medical device and apply for 510(k) clearance or De Novo clearance.
+Test on human subjects through approved clinical studies.
+Implement parts of surgical process into current procedures.
+Implement entire surgical process into offices so people everywhere can improve their hearing.
