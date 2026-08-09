@@ -13,7 +13,7 @@ Motion simulation with personalized ear looped for multiple hours.
 The simulation shows where the arm gets stuck, when it touches the canal, and how much each motor must rotate, changing these values and learning from itself. 
 The simulation gives XYZ points, joint angles, and sequence of movement used to create a motion path by converting angles to servo commands and putting this information into the code. 
 
-Tympanic Membrane Perforations
+Current Issue: Tympanic Membrane Perforations
 Over 320 million people suffer from Tympanic Membrane Perforations. Tympanic membrane perforations are holes in the eardrums thin layer of tissue.
          Caused by 
 Infections
