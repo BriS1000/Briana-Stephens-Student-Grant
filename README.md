@@ -12,3 +12,24 @@ The new design of the robotic arm will be created and assembled in solidworks wi
 Motion simulation with personalized ear looped for multiple hours.
 The simulation shows where the arm gets stuck, when it touches the canal, and how much each motor must rotate, changing these values and learning from itself. 
 The simulation gives XYZ points, joint angles, and sequence of movement used to create a motion path by converting angles to servo commands and putting this information into the code. 
+
+Tympanic Membrane Perforations
+Over 320 million people suffer from Tympanic Membrane Perforations. Tympanic membrane perforations are holes in the eardrums thin layer of tissue.
+         Caused by 
+Infections
+ Air pressure changes
+Trama
+Myringotomy procedure
+       Cause
+Tinnitus
+Vertigo
+Hearing loss
+Ear Infections
+
+Current Surgical Procedure
+Current surgical procedure expensive and inaccessible with low success rates and multiple incisions.
+Entrance to the eardrum from an incision behind the ear 
+This incision is painful and takes multiple months to heal
+This access method poses the risk of hitting the hearing bones causing permanent hearing loss.
+ Surgery needs anesthesia and takes multiple hours. 
+Mistakes can easily occur during surgery, causing punctures of the eardrum. 
