@@ -22,7 +22,7 @@ This access method poses the risk of hitting the hearing bones causing permanent
 Mistakes can easily occur during surgery, causing punctures of the eardrum. 
 
 
-Uses personalized pre planned surgical route.
+Engineering Goals: Uses personalized pre planned surgical route.
 Inserts the graft through the ear canal, the grafts back layer sliding through the perforation, holding it in place. 
 Eliminates possible hand tremors.
 Can navigate the delicate ear canal structure.
