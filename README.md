@@ -13,7 +13,7 @@ Vertigo
 Hearing loss
 Ear Infections
 
-Current Surgical Procedure
+Current Surgical Procedure:
 Current surgical procedure expensive and inaccessible with low success rates and multiple incisions.
 Entrance to the eardrum from an incision behind the ear 
 This incision is painful and takes multiple months to heal
@@ -38,7 +38,7 @@ The simulation gives XYZ points, joint angles, and sequence of movement used to 
 
 Simulation testing was preformed and each path taken during testing is mapped out to show initial errors, the learning curve, and the best trajectory. After simulation training with the personalized ear, the robot aligned with the ear canal and learned path motion for the surgery.
 
-Goal:An autonomous placement through the ear canal allows for an in-office procedure without the need for pain or recovery time. Incorporating reinforcement learning simulations to train the robot allows for reduced positional errors, minimized tissue contact, and graft placement accuracy.
+Goal: An autonomous placement through the ear canal allows for an in-office procedure without the need for pain or recovery time. Incorporating reinforcement learning simulations to train the robot allows for reduced positional errors, minimized tissue contact, and graft placement accuracy.
 
 Together, these technologies form a complete surgical process that addresses both the anatomical and procedural challenges of tympanic membrane repair. Parts of this process can be implemented in otolaryngology offices and into current tympanoplasty procedures. In the future, this entire process can be implemented in offices everywhere, helping reduce global hearing loss
 
