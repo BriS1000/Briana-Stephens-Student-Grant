@@ -35,6 +35,10 @@ This access method poses the risk of hitting the hearing bones causing permanent
 Mistakes can easily occur during surgery, causing punctures of the eardrum. 
 
 
+Goal:An autonomous placement through the ear canal allows for an in-office procedure without the need for pain or recovery time. Incorporating reinforcement learning simulations to train the robot allows for reduced positional errors, minimized tissue contact, and graft placement accuracy.
+
+Together, these technologies form a complete surgical process that addresses both the anatomical and procedural challenges of tympanic membrane repair. Parts of this process can be implemented in otolaryngology offices and into current tympanoplasty procedures. In the future, this entire process can be implemented in offices everywhere, helping reduce global hearing loss
+
 Future Work
 Collaborate with inpatient biomedical engineers who can run the simulation and motion training.
 Apply for each part of the new surgical process to be approved to become medical devices used in the office and inpatient clinical settings, while complying with FDA standards.
